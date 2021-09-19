@@ -34,7 +34,7 @@
             
 - If you have any questions please contact me at: rsah1@asu.edu
 ### https://www.linkedin.com/in/ram-sah/
-### GitHub Prifile: [ram-sah](https://github.com/ram-sah) 
+### GitHub Profile: [ram-sah](https://github.com/ram-sah) 
 ### Repository : [LinkedIn-Assessments](https://github.com/ram-sah/LinkedIn-Assessments)
 ## Badges: https://www.linkedin.com/in/ram-sah
 ## Credit: 
