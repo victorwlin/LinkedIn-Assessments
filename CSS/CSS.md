@@ -17,9 +17,9 @@ D. border-top-radius: 10px;
 
 - [ ] C and DC and D
 
-- [ ] A and BA and B
+- [x] A and BA and B
 
-- [x] A and C
+- [ ] A and C
 
 > ### Q2. What is the output of the margin value when used within this context, assuming that its containing element is larger than 800px?
 ```css
